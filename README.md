@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: channabasava chola
 - 😄 Pronouns: Channa 
-- 
+<!--s 
 - ![plot](https://https://github.com/channu7com/ba.jpg)
 <!--
 - ⚡ Fun fact: ...
