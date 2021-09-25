@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=channu7" alt="channu7" /> </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) 
-
 ## Hi there 👋
 
 - 🔭 I’m currently working on Computer vision
@@ -25,10 +22,11 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p> 
-**Results:**
-<p align="left">
+**Aurora**
+<p align="center">
   <img width="460" height="300" src="./ba.jpg">
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) 
 <!--s 
 - ![plot](https://https://github.com/channu7com/ba.jpg)
 <!--
