@@ -26,7 +26,7 @@
 <p align="center">
   <img width="460" height="300" src="./ba.jpg">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) 
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) </p>
 <!--s 
 - ![plot](https://https://github.com/channu7com/ba.jpg)
 <!--
