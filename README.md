@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Image Processing related works
 - 🤔 I’m open collaborations
-- 📫 How to reach me: channabasava chola
+- 📫 How to reach me: [Channabasava_Chola](https://channu7.github.io/channa.io/)
 - 😄 Pronouns: Channa 
 <br>
 <p align="center">
