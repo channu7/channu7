@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=channu7" alt="channu7" /> </p>
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact)
+
 - 🔭 I’m currently working on Computer vision
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Image Processing related works
@@ -26,9 +28,8 @@
 <p align="center">
   <img width="460" height="300" src="./ba.jpg">
 </p>
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) </p>
+
 <!--s 
-- ![plot](https://https://github.com/channu7com/ba.jpg)
 <!--
 - ⚡ Fun fact: ...
 -->
